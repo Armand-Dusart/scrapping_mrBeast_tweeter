@@ -1,0 +1,4 @@
+stanford-postagger-full-2020-11-17/
+build/
+dist/
+__pycache__/
